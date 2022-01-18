@@ -1,14 +1,14 @@
 
-// java_03_05_2741
+// java_03_06_2742
 
 import java.util.*;
 
-public class java_03_05_2741 {
+public class java_03_06_2742 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a;
 		a = sc.nextInt();
-		for (int i = 1; i <= a; i++) {
+		for (int i = a; i >= 1; i--) {
 			System.out.println(i);
 		}
 	}
