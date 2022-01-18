@@ -11,11 +11,9 @@ public class java_04_03_1110 {
 		int a0, a1, mid;
 		count = 0;
 		n = sc.nextInt();
-
 		a0 = n / 10;
 		a1 = n % 10;
 		mid = a0 + a1;
-
 		while (n != next) {
 			if (mid < 10) {
 				next = 10 * a1 + mid;
