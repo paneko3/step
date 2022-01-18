@@ -10,6 +10,7 @@ public class java_03_05_2741 {
 		a = sc.nextInt();
 		for(int i=1; i<=a;i++) {
 			System.out.println(i);
+			
 		}
 	}
 }
