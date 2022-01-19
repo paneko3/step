@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_01_2557",
+            "request": "launch",
+            "mainClass": "java_01_01_2557",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_02_10718",
+            "request": "launch",
+            "mainClass": "java_01_02_10718",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_03_10171",
+            "request": "launch",
+            "mainClass": "java_01_03_10171",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_04_10172",
+            "request": "launch",
+            "mainClass": "java_01_04_10172",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_05_1000",
+            "request": "launch",
+            "mainClass": "java_01_05_1000",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_06_1001",
+            "request": "launch",
+            "mainClass": "java_01_06_1001",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_07_10998",
+            "request": "launch",
+            "mainClass": "java_01_07_10998",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_08_1008",
+            "request": "launch",
+            "mainClass": "java_01_08_1008",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_09_10869",
+            "request": "launch",
+            "mainClass": "java_01_09_10869",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_10_10430",
+            "request": "launch",
+            "mainClass": "java_01_10_10430",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_01_11_2588",
+            "request": "launch",
+            "mainClass": "java_01_11_2588",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_02_01_1330",
+            "request": "launch",
+            "mainClass": "java_02_01_1330",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_02_02_9498",
+            "request": "launch",
+            "mainClass": "java_02_02_9498",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_02_03_2753",
+            "request": "launch",
+            "mainClass": "java_02_03_2753",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_02_04_14681",
+            "request": "launch",
+            "mainClass": "java_02_04_14681",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_02_05_2884",
+            "request": "launch",
+            "mainClass": "java_02_05_2884",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_01_2739",
+            "request": "launch",
+            "mainClass": "java_03_01_2739",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_02_10950",
+            "request": "launch",
+            "mainClass": "java_03_02_10950",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_03_8393",
+            "request": "launch",
+            "mainClass": "java_03_03_8393",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_04_15552",
+            "request": "launch",
+            "mainClass": "java_03_04_15552",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_05_2741",
+            "request": "launch",
+            "mainClass": "java_03_05_2741",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_06_2742",
+            "request": "launch",
+            "mainClass": "java_03_06_2742",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_07_11021",
+            "request": "launch",
+            "mainClass": "java_03_07_11021",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_09_2438",
+            "request": "launch",
+            "mainClass": "java_03_09_2438",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_10_2439",
+            "request": "launch",
+            "mainClass": "java_03_10_2439",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_03_11_10871",
+            "request": "launch",
+            "mainClass": "java_03_11_10871",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_04_01_10952",
+            "request": "launch",
+            "mainClass": "java_04_01_10952",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_04_02_10951",
+            "request": "launch",
+            "mainClass": "java_04_02_10951",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_04_03_1110",
+            "request": "launch",
+            "mainClass": "java_04_03_1110",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_05_01_10818",
+            "request": "launch",
+            "mainClass": "java_05_01_10818",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_05_02_2562",
+            "request": "launch",
+            "mainClass": "java_05_02_2562",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_05_03_2577",
+            "request": "launch",
+            "mainClass": "java_05_03_2577",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_05_04_3052",
+            "request": "launch",
+            "mainClass": "java_05_04_3052",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_05_05_1546",
+            "request": "launch",
+            "mainClass": "java_05_05_1546",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_05_06_8958",
+            "request": "launch",
+            "mainClass": "java_05_06_8958",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_05_07_4344",
+            "request": "launch",
+            "mainClass": "java_05_07_4344",
+            "projectName": "step"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_06_02_4673",
+            "request": "launch",
+            "mainClass": "java_06_02_4673",
+            "projectName": "step"
+        }
+    ]
+}
