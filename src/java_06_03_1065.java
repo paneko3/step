@@ -19,11 +19,11 @@ public class java_06_03_1065 {
 			for (int k = 0; k < str.length() - 1; k++) {
 				dif[k] = arr[k] - arr[k + 1];
 			}
-			if (i > 999) {
-			} else if (i > 99 && dif[0] != dif[1]) {
-			} else {
+			if (i > 999);
+			else if (i > 99 && dif[0] != dif[1]);
+			else
 				count++;
-			}
+
 		}
 		System.out.println(count);
 	}
