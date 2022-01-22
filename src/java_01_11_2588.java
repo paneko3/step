@@ -1,9 +1,9 @@
 
-// java_01_11_2588
+// Java_01_11_2588
 
 import java.util.*;
 
-public class java_01_11_2588 {
+public class Java_01_11_2588 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a, b, c, d, e;
@@ -19,5 +19,6 @@ public class java_01_11_2588 {
 		System.out.println(d);
 		System.out.println(e);
 		System.out.println(c + d * 10 + e * 100);
+		sc.close();
 	}
 }

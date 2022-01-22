@@ -1,9 +1,9 @@
 
-// java_05_07_4344
+// Java_05_07_4344
 
 import java.util.*;
 
-public class java_05_07_4344 {
+public class Java_05_07_4344 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int C = sc.nextInt();
@@ -24,5 +24,6 @@ public class java_05_07_4344 {
 			System.out.printf("%.3f", 1.0 * count / N * 100);
 			System.out.println("%");
 		}
+		sc.close();
 	}
 }

@@ -1,9 +1,9 @@
 
-// java_04_02_10951
+// Java_04_02_10951
 
 import java.util.*;
 
-public class java_04_02_10951 {
+public class Java_04_02_10951 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a, b;
@@ -12,5 +12,6 @@ public class java_04_02_10951 {
 			b = sc.nextInt();
 			System.out.println(a + b);
 		}
+		sc.close();
 	}
 }

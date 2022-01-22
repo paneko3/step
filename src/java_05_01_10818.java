@@ -1,9 +1,9 @@
 
-// java_05_01_10818
+// Java_05_01_10818
 
 import java.util.*;
 
-public class java_05_01_10818 {
+public class Java_05_01_10818 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();

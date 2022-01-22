@@ -1,9 +1,9 @@
 
-// java_02_05_2884
+// Java_02_05_2884
 
 import java.util.*;
 
-public class java_02_05_2884 {
+public class Java_02_05_2884 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a, b;
@@ -19,5 +19,6 @@ public class java_02_05_2884 {
 			System.out.print(a + " ");
 			System.out.print(b - 45);
 		}
+		sc.close();
 	}
 }

@@ -1,9 +1,9 @@
 
-// java_03_06_2742
+// Java_03_06_2742
 
 import java.util.*;
 
-public class java_03_06_2742 {
+public class Java_03_06_2742 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a;
@@ -11,5 +11,6 @@ public class java_03_06_2742 {
 		for (int i = a; i >= 1; i--) {
 			System.out.println(i);
 		}
+		sc.close();
 	}
 }

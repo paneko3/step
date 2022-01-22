@@ -1,7 +1,5 @@
 
-// java_06_01_15596
-
-import java.util.*;
+// Java_06_01_15596
 
 // class Test{
 // 	long sum(int[] a){
@@ -13,7 +11,7 @@ import java.util.*;
 // 	}
 // }
 
-public class java_06_01_15596 {
+public class Java_06_01_15596 {
 	public static void main(String[] args) {
 	}
 }

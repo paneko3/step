@@ -1,9 +1,9 @@
 
-// java_01_09_10869
+// Java_01_09_10869
 
 import java.util.*;
 
-public class java_01_09_10869 {
+public class Java_01_09_10869 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a, b;
@@ -14,5 +14,6 @@ public class java_01_09_10869 {
 		System.out.println(a * b);
 		System.out.println(a / b);
 		System.out.println(a % b);
+		sc.close();
 	}
 }

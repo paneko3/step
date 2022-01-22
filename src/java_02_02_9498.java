@@ -1,9 +1,9 @@
 
-// java_02_02_9498
+// Java_02_02_9498
 
 import java.util.*;
 
-public class java_02_02_9498 {
+public class Java_02_02_9498 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a;
@@ -19,5 +19,6 @@ public class java_02_02_9498 {
 		} else {
 			System.out.println("F");
 		}
+		sc.close();
 	}
 }

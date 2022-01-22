@@ -1,9 +1,9 @@
 
-// java_04_03_1110
+// Java_04_03_1110
 
 import java.util.*;
 
-public class java_04_03_1110 {
+public class Java_04_03_1110 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n, count;
@@ -26,5 +26,6 @@ public class java_04_03_1110 {
 			count++;
 		}
 		System.out.println(count);
+		sc.close();
 	}
 }

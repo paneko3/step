@@ -1,9 +1,9 @@
 
-// java_05_03_2577
+// Java_05_03_2577
 
 import java.util.*;
 
-public class java_05_03_2577 {
+public class Java_05_03_2577 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

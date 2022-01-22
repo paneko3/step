@@ -1,9 +1,9 @@
 
-// java_03_11_10871
+// Java_03_11_10871
 
 import java.util.*;
 
-public class java_03_11_10871 {
+public class Java_03_11_10871 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n, x;
@@ -15,6 +15,7 @@ public class java_03_11_10871 {
 			if (a[i] < x) {
 				System.out.print(a[i] + " ");
 			}
+			sc.close();
 		}
 	}
 }

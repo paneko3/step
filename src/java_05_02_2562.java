@@ -1,9 +1,9 @@
 
-// java_05_02_2562
+// Java_05_02_2562
 
 import java.util.*;
 
-public class java_05_02_2562 {
+public class Java_05_02_2562 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int index = -1;

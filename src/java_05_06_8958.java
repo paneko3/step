@@ -1,9 +1,9 @@
 
-// java_05_06_8958
+// Java_05_06_8958
 
 import java.util.*;
 
-public class java_05_06_8958 {
+public class Java_05_06_8958 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
@@ -21,5 +21,6 @@ public class java_05_06_8958 {
 			}
 			System.out.println(sum);
 		}
+		sc.close();
 	}
 }

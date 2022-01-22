@@ -1,9 +1,9 @@
 
-// java_05_05_1546
+// Java_05_05_1546
 
 import java.util.*;
 
-public class java_05_05_1546 {
+public class Java_05_05_1546 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
@@ -19,6 +19,7 @@ public class java_05_05_1546 {
 		}
 		avg = avg / N;
 		System.out.println(avg);
+		sc.close();
 
 	}
 }

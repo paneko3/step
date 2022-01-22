@@ -1,9 +1,9 @@
 
-// java_04_01_10952
+// Java_04_01_10952
 
 import java.util.*;
 
-public class java_04_01_10952 {
+public class Java_04_01_10952 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a = -1;
@@ -14,5 +14,6 @@ public class java_04_01_10952 {
 			if(a==0&&b==0) break; 
 			else System.out.println(a + b);
 		}
+		sc.close();
 	}
 }

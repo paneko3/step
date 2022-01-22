@@ -1,9 +1,9 @@
 
-// java_03_07_11021
+// Java_03_07_11021
 
 import java.util.*;
 
-public class java_03_07_11021 {
+public class Java_03_07_11021 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int t, a, b;
@@ -13,5 +13,7 @@ public class java_03_07_11021 {
 			b = sc.nextInt();
 			System.out.println("Case #" + i + ": " + (a + b));
 		}
+		sc.close();
+		
 	}
 }

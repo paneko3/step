@@ -1,9 +1,9 @@
 
-// java_02_03_2753
+// Java_02_03_2753
 
 import java.util.*;
 
-public class java_02_03_2753 {
+public class Java_02_03_2753 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a;
@@ -13,5 +13,6 @@ public class java_02_03_2753 {
 		} else {
 			System.out.println("0");
 		}
+		sc.close();
 	}
 }

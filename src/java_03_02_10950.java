@@ -1,9 +1,9 @@
 
-// java_03_02_10950
+// Java_03_02_10950
 
 import java.util.*;
 
-public class java_03_02_10950 {
+public class Java_03_02_10950 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a,b,t;
@@ -14,5 +14,6 @@ public class java_03_02_10950 {
 			b = sc.nextInt();
 			System.out.println(a+b);
 		}
+		sc.close();
 	}
 }

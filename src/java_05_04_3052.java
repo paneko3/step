@@ -1,9 +1,9 @@
 
-// java_05_04_3052
+// Java_05_04_3052
 
 import java.util.*;
 
-public class java_05_04_3052 {
+public class Java_05_04_3052 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int arr[] = new int[10];
@@ -22,6 +22,7 @@ public class java_05_04_3052 {
 			}
 		}
 		System.out.println(count);
+		sc.close();
 
 	}
 }

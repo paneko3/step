@@ -1,9 +1,7 @@
 
-// java_06_02_4673
+// Java_06_02_4673
 
-import java.util.*;
-
-public class java_06_02_4673 {
+public class Java_06_02_4673 {
 	public static void main(String[] args) {
 		int arr[] = new int[10001];
 		int self = 0;

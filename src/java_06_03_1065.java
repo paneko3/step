@@ -1,9 +1,9 @@
 
-// java_06_03_1065
+// Java_06_03_1065
 
 import java.util.*;
 
-public class java_06_03_1065 {
+public class Java_06_03_1065 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
@@ -26,5 +26,6 @@ public class java_06_03_1065 {
 
 		}
 		System.out.println(count);
+		sc.close();
 	}
 }

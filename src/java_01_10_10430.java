@@ -1,9 +1,9 @@
 
-// java_01_10_10430
+// Java_01_10_10430
 
 import java.util.*;
 
-public class java_01_10_10430 {
+public class Java_01_10_10430 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a, b, c;
@@ -14,5 +14,6 @@ public class java_01_10_10430 {
 		System.out.println(((a % c) + (b % c)) % c);
 		System.out.println((a * b) % c);
 		System.out.println(((a % c) * (b % c)) % c);
+		sc.close();
 	}
 }

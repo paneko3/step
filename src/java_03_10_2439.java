@@ -1,9 +1,9 @@
 
-// java_03_10_2439
+// Java_03_10_2439
 
 import java.util.*;
 
-public class java_03_10_2439 {
+public class Java_03_10_2439 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n;
@@ -17,5 +17,6 @@ public class java_03_10_2439 {
 			}
 			System.out.println();
 		}
+		sc.close();
 	}
 }
